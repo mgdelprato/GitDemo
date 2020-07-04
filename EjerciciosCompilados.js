@@ -21,6 +21,8 @@ let resultadoDivision = numeroA / numeroB;
 // Probá éstos conocimientos declarando la función triple para triplique el valor pasado por parámetro.	
 
 function triple(unNumero){
+    //asdfasdf
+    //asdfasfd
     return 3 * unNumero;    
 }
 
