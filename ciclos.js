@@ -33,6 +33,68 @@ function imprimir5veces5(){
 
      }
 }
+
+function imprimir55veces5(){
+    for(let i=0;i<5;i++){
+       console.log(5);
+       console.log(5);
+       console.log(5);
+       //asdfasdf
+       //asfdasfds
+       //sdfasfd
+       console.log(5);
+       console.log(5);
+       console.log(5);
+       console.log(5);
+       
+
+
+
+
+
+    }
+}
+function imprimir6veces5(){
+    for(let i=0;i<5;i++){
+       console.log(5);
+       console.log(5);
+       console.log(5);
+       //asdfasdf
+       //asfdasfds
+       //sdfasfd
+       console.log(5);
+       console.log(5);
+       console.log(5);
+       console.log(5);
+       
+
+
+
+
+
+    }
+}
+function imprimir7veces5(){
+    for(let i=0;i<5;i++){
+       console.log(5);
+       console.log(5);
+       console.log(5);
+       //asdfasdf
+       //asfdasfds
+       //sdfasfd
+       console.log(5);
+       console.log(5);
+       console.log(5);
+       console.log(5);
+       
+
+
+
+
+
+    }
+}
+
 imprimir5veces5();
 
 //Sabiendo esto, escribí una función pasitoAPasito, que imprime 5 veces el contenido de i. 

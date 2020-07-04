@@ -11,6 +11,19 @@ function alturaArbolUtopico(ene){
     }
     return altura;
 }
+function alturaArbollitoUtopico(ene){
+    let altura=1;
+    for(let i=0;i<=ene;i++){
+        if(i==0){
+            altura=altura+0;
+        }else if (i%2==0 && i !=0){
+            altura++;
+        }else if (i%2!=0){
+            altura = altura*2;
+        }
+    }
+    return altura;
+}
 console.log(alturaArbolUtopico(0));
 console.log(alturaArbolUtopico(1));
 console.log(alturaArbolUtopico(2));
